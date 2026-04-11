@@ -1,6 +1,6 @@
 ---
 layout: home
-title: Home
+title:
 ---
 
 I build stuff and rant about agents, AI, and software engineering for a living.
