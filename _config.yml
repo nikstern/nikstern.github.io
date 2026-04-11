@@ -19,12 +19,12 @@
 # in the templates via {{ site.myvariable }}.
 
 title: Nik Stern
-email: ""
+email: "nik.sam.stern@gmail.com"
 description: >-
-  Personal site for notes, writing, projects, and experiments by Nik Stern.
+  Rants, projects, experiments, educational material
 baseurl: ""
 url: "https://nikstern.github.io"
-twitter_username: ""
+twitter_username: "DotTheRadish"
 github_username: nikstern
 
 # Build settings
