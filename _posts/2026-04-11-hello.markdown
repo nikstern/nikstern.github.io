@@ -1,0 +1,14 @@
+---
+layout: post
+title: "Hello"
+date: 2026-04-11 05:48:39 -0700
+categories: notes
+---
+
+Hi, I'm Nik Stern.
+
+For some reason, over the last ~12 years, people have paid me to read, write, build, and explain things. At different points these roles have been called tutor, teacher, lecturer, researcher, engineer, and curriculum developer.
+
+I've been incredibly lucky to live off of these roles because I have no idea what I'd be doing otherwise.
+
+I'm making this blog because I'm writing various things that I plan to make open-source eventually. Various parts could be helpful on their own (I hope), so I will publish them as I write them.
